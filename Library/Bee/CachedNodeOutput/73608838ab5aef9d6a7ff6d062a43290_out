@@ -1,0 +1,2 @@
+warning CS1668: Invalid search path 'C:\Program Files\IBM\MQ\tools\lib64' specified in 'LIB environment variable' -- 'directory does not exist'
+warning CS1668: Invalid search path 'C:\Program Files\IBM\MQ\tools\lib' specified in 'LIB environment variable' -- 'directory does not exist'
